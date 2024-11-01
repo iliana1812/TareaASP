@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\pr_empresa1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7802CB6-EF63-48AE-B05C-62EC068B3B24}|web_umg_bd\\Vista.csproj|c:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7802CB6-EF63-48AE-B05C-62EC068B3B24}|web_umg_bd\\Vista.csproj|solutionrelative:web_umg_bd\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7802CB6-EF63-48AE-B05C-62EC068B3B24}|web_umg_bd\\web_umg_bd.csproj|C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7802CB6-EF63-48AE-B05C-62EC068B3B24}|web_umg_bd\\web_umg_bd.csproj|solutionrelative:web_umg_bd\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}|Modelo\\Modelo.csproj|c:\\xampp\\htdocs\\pr_empresa1\\modelo\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}|Modelo\\Modelo.csproj|C:\\xampp\\htdocs\\pr_empresa1\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}|Modelo\\Modelo.csproj|solutionrelative:modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7802CB6-EF63-48AE-B05C-62EC068B3B24}|web_umg_bd\\web_umg_bd.csproj|C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C7802CB6-EF63-48AE-B05C-62EC068B3B24}|web_umg_bd\\web_umg_bd.csproj|solutionrelative:web_umg_bd\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "web_umg_bd\\Default.aspx.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\Default.aspx.cs",
+              "RelativeToolTip": "web_umg_bd\\Default.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:09:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "web_umg_bd\\Default.aspx.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\Default.aspx.cs",
+              "RelativeToolTip": "web_umg_bd\\Default.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-31T04:09:15.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pr_empresa1\\Modelo\\Empleado.cs",
+              "RelativeDocumentMoniker": "Modelo\\Empleado.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pr_empresa1\\Modelo\\Empleado.cs",
+              "RelativeToolTip": "Modelo\\Empleado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:09:15.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pr_empresa1\\Modelo\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Modelo\\ConexionBD.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pr_empresa1\\Modelo\\ConexionBD.cs",
+              "RelativeToolTip": "Modelo\\ConexionBD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:09:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\Default.aspx",
+              "RelativeDocumentMoniker": "web_umg_bd\\Default.aspx",
+              "ToolTip": "C:\\xampp\\htdocs\\pr_empresa1\\web_umg_bd\\Default.aspx",
+              "RelativeToolTip": "web_umg_bd\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-10-31T04:09:15.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
